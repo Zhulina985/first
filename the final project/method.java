@@ -4,6 +4,7 @@ public class method {
     String label;
     String type;
     int price;
+
     public method() {
     }
     public method(String book, String label, String type) {
